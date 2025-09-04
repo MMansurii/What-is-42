@@ -6,7 +6,7 @@ import { VitePWA } from "vite-plugin-pwa";
 const getBasePath = (mode: string) =>
   mode === "development" ? undefined : "/What-is-42/";
 
-// https://vitejs.dev/config/
+// https://vitejs.dev/config/fffff
 export default defineConfig(({ mode }) => ({
   base: getBasePath(mode),
   plugins: [
