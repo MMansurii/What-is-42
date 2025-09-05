@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="120" />
   
-# 👋 Hi, I'm Mohamed H. Aly
+# 👋 Hi, I'm Mohamad H. Aly
 
   <img src="https://img.shields.io/badge/Frontend%20Engineer-Next.js%20%7C%20React%20%7C%20TypeScript-blue" />
   <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-orange" />

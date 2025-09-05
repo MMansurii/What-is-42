@@ -47,7 +47,7 @@ export function Header({ scrollY }: { scrollY: number }) {
             headerBg ? "opacity-100" : "opacity-0"
           }`}
         >
-          Mohamed H. Aly
+          Mohamad H. Aly
         </span>
       </a>
       {/* Hamburger for mobile */}

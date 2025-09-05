@@ -21,10 +21,10 @@ export function HeroSection({ scrollY }: { scrollY: number }) {
         <div className="animate-fade-in-up text-center">
           <h1 className="relative z-10 mb-4 text-5xl font-extrabold tracking-tight md:text-7xl">
             <span className="animate-header-gradient-move bg-gradient-to-r from-cyan-300 via-blue-400 to-fuchsia-500 [background-size:200%_200%] bg-clip-text text-transparent drop-shadow-md drop-shadow-black">
-              Mohamed H. Aly
+              Mohamad H. Aly
             </span>
             <span className="animate-header-gradient-move-pulse pointer-events-none absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-gradient-to-r from-cyan-400 via-blue-400 to-fuchsia-500 bg-clip-text text-5xl text-transparent blur-2xl select-none md:text-7xl md:whitespace-pre">
-              Mohamed H. Aly
+              Mohamad H. Aly
             </span>
           </h1>
           <p className="animate-header-gradient-move mx-auto mb-10 max-w-2xl bg-gradient-to-r from-cyan-200 via-fuchsia-300 to-yellow-200 bg-clip-text text-xl font-bold text-transparent drop-shadow-md drop-shadow-black md:text-3xl">
