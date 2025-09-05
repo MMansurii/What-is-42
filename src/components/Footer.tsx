@@ -21,7 +21,7 @@ export function Footer() {
         </a>
         <span className="mx-2">|</span>
         <a
-          href="https://github.com/metwesh"
+          href="https://github.com/mmansurii"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block font-semibold text-cyan-400 transition-colors hover:text-cyan-300 hover:underline"

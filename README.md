@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-orange" />
   <img src="https://img.shields.io/badge/Contact-mohamedh.aly@hotmail.com-green" />
   <br/>
-  <a href="https://metwesh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=Firefox" /></a>
+  <a href="https://mmansurii.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=Firefox" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn" /></a>
 </div>
 
@@ -73,7 +73,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metwesh&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmansurii&theme=radical" width="400" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 📫 Contact
 
 - 📧 Email: <mohamedh.aly@hotmail.com>
-- 🌐 [Portfolio Website](https://metwesh.github.io/portfolio/)
+- 🌐 [Portfolio Website](https://mmansurii.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-h-aly/)
 - 📱 +201065583557
 
@@ -89,7 +89,7 @@
 
 ## 🏆 Projects & Certificates
 
-A comprehensive list of all the projects I've contributed to, including detailed descriptions and the technologies utilized, can be found in my [online portfolio](https://metwesh.github.io/portfolio/). Additionally, my completed courses and certificates are available there as well.
+A comprehensive list of all the projects I've contributed to, including detailed descriptions and the technologies utilized, can be found in my [online portfolio](https://mmansurii.github.io/portfolio/). Additionally, my completed courses and certificates are available there as well.
 
 ---
 

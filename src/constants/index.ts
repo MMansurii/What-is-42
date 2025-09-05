@@ -411,8 +411,8 @@ const projects = [
     ],
     image: clinicWebsite,
     color: "#6366f1",
-    source_code_link: "https://github.com/Metwesh/health-clinics/",
-    link: "https://metwesh.github.io/health-clinics/",
+    source_code_link: "https://github.com/mmansurii/health-clinics/",
+    link: "https://mmansurii.github.io/health-clinics/",
   },
   {
     name: "Budget calculator",
@@ -434,8 +434,8 @@ const projects = [
     ],
     image: budgetApp,
     color: "#1d4ed8",
-    source_code_link: "https://github.com/Metwesh/budget-app/",
-    link: "https://metwesh.github.io/budget-app/",
+    source_code_link: "https://github.com/mmansurii/budget-app/",
+    link: "https://mmansurii.github.io/budget-app/",
   },
   {
     name: "Face detection Web-App",
@@ -473,7 +473,7 @@ const projects = [
     ],
     image: faceDetectApp,
     color: "#f97316",
-    source_code_link: "https://github.com/Metwesh/face-recognition/",
+    source_code_link: "https://github.com/mmansurii/face-recognition/",
   },
   {
     name: "Task Handler Web-App",
@@ -515,7 +515,7 @@ const projects = [
     ],
     image: taskHandlerApp,
     color: "#ec4899",
-    source_code_link: "https://github.com/Metwesh/task-handler",
+    source_code_link: "https://github.com/mmansurii/task-handler",
   },
   {
     name: "SIDEUP Dashboard v2",

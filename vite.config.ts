@@ -25,7 +25,7 @@ export default defineConfig(({ mode }) => ({
         "/favicons/pwa-512x512.png",
       ],
       manifest: {
-        name: "Metwesh | Portfolio",
+        name: "mmansurii | Portfolio",
         short_name: "Portfolio",
         theme_color: "#00eaff",
         background_color: "#080e19",
